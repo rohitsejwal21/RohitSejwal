@@ -1,4 +1,5 @@
 altair==4.2.0
+nltk==3.7
 blinker==1.5
 brotlipy==0.7.0
 cachetools==5.2.0
